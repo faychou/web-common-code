@@ -10,7 +10,7 @@
     visibility: hidden;
 }
 .clearfix {
-    zoom: 1;
+    *zoom: 1;
 }
 ```
 <br/>
