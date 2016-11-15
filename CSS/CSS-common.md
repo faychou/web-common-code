@@ -162,3 +162,18 @@
     right: -200px;
 }
 ```
+### 三、定宽块元素居中
+``` CSS
+.auto {
+  margin-left:auto;
+  margin-right:auto;
+}
+```
+### 四、单行文字溢出虚点显示
+``` CSS
+.ell{
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  overflow:hidden;
+}
+```
